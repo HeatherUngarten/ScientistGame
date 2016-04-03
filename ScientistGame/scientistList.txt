@@ -1,0 +1,15 @@
+Victor Hess, Physics, 2, Radio Active Air, 100, 4, Cosmic Rays, 133, yes, Tyson.jpg
+Fritz Zwicky, Astronomy,  2, Radio Active Air, 100, 4, Cosmic Rays, 133, yes, Tyson.jpg
+Noah Ungarten, Physics,  2, Radio Active Air, 100, 4, Cosmic Rays, 133, yes, Tyson.jpg
+John Mitchell, Astronomy, 2, Radio Active Air, 100, 4, Cosmic Rays, 133, yes, Tyson.jpg
+Tester 1, Chemistry, 2, Radio Active Air, 100, 4, Cosmic Rays, 133, yes, Tyson.jpg
+Gallileo, Astronomy, 2, Radio Active Air, 100, 4, Cosmic Rays, 133, yes, Tyson.jpg
+Tester 2, Physics, 2, Radio Active Air, 100, 4, Cosmic Rays, 133, yes, Tyson.jpg
+Tester 3, Astronomy, 2, Radio Active Air, 100, 4, Cosmic Rays, 133, yes, Tyson.jpg
+Tester 4, Biology, 2, Radio Active Air, 100, 4, Cosmic Rays, 133, yes, Tyson.jpg
+Tester 5, physics, 2, Radio Active Air, 100, 4, Cosmic Rays, 133, yes, Tyson.jpg
+Neil DeGrasse Tyson, Astronomy, 2, Radio Active Air, 100, 4, Cosmic Rays, 133, yes, Tyson.jpg
+Al Hazen, Physics, 2, Radio Active Air, 100, 4, Cosmic Rays, 133, yes, Tyson.jpg
+Isaac Newtwon, Physics, 2, Radio Active Air, 100, 4, Cosmic Rays, 133, yes, Tyson.jpg
+William Herschel, Physics, 2, Radio Active Air, 100, 4, Cosmic Rays, 133, yes, Tyson.jpg
+Tesla, Physics, 2, Radio Active Air, 100, 4, Cosmic Rays, 133, yes, Tyson.jpg
